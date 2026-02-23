@@ -10,7 +10,6 @@
   <a href="#"><img src="https://img.shields.io/badge/NPM-Package_Manager-red?logo=npm&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/REST-API-blue?logo=fastapi&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/React-UI_Library-61DAFB?logo=react&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Angular-Framework-DD0031?logo=angular&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Vue.js-Framework-4FC08D?logo=vuedotjs&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-Styles-1572B6?logo=css3&logoColor=white" /></a>
